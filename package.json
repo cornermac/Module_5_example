@@ -1,0 +1,25 @@
+{
+  "name": "mod5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "booksJSON.js",
+  "dependencies": {
+    "body-parser": "^1.12.3",
+    "express": "^4.12.3",
+    "mongoose": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cornermac/Module_5_example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cornermac/Module_5_example/issues"
+  },
+  "homepage": "https://github.com/cornermac/Module_5_example"
+}
